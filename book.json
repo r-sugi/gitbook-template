@@ -1,0 +1,9 @@
+{
+  "title": "GitBook Tutorial",
+  "description": "This is a gitbook example",
+  "root": "src",
+  "plugins": ["copy-code-button", "anchors", "mermaid-gb3"],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
